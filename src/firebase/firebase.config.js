@@ -5,13 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCIQl0weHWkyX7FNmGNCTElUYL9aL0HPMA",
-    authDomain: "online-book-store-78516.firebaseapp.com",
-    projectId: "online-book-store-78516",
-    storageBucket: "online-book-store-78516.appspot.com",
-    messagingSenderId: "282181520275",
-    appId: "1:282181520275:web:0ce28538cea0433ea83666"
-  };
+  apiKey: "AIzaSyB9ovq8X2WS7nYLyDX-JYflTOuEZ0kpV90",
+  authDomain: "fir-book-inventory-773e4.firebaseapp.com",
+  projectId: "fir-book-inventory-773e4",
+  storageBucket: "fir-book-inventory-773e4.appspot.com",
+  messagingSenderId: "797632540741",
+  appId: "1:797632540741:web:0efe573c726d7fad3cf32c"
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
